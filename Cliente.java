@@ -24,7 +24,7 @@ public class Cliente {
     this.apellido = apellido;
   }
 
-  public int getApellido() {
+  public String getApellido() {
     return this.apellido;
   }
 
@@ -32,7 +32,7 @@ public class Cliente {
     this.nombre = nombre;
   }
 
-  public int getNombre() {
+  public String getNombre() {
     return this.nombre;
   }
 
